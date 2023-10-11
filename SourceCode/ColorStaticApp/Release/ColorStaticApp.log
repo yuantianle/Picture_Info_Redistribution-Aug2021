@@ -1,0 +1,10 @@
+﻿  moc ColorStaticApp.h
+  moc MyColorWidget.h
+  MyColorWidget.cpp
+  template.cpp
+  ColorStaticApp.cpp
+  main.cpp
+  qrc_ColorStaticApp.cpp
+  moc_ColorStaticApp.cpp
+  moc_MyColorWidget.cpp
+  ColorStaticApp.vcxproj -> C:\Users\ytl_5\Box\Mural Art\Chemical Analysis\Color-statistical\ColorStaticApp\Release\ColorStaticApp.exe
